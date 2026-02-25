@@ -1,0 +1,20 @@
+cd practice
+mkdir weekly_temperature_analysis
+cd weekly_temperature_analysis
+cd..
+mkdir python_loops_assignment
+cd python_loops_assignment
+type nul> temperature_analysis.py
+dir
+code .
+python temperature_analysis.py
+git init
+git add temperature_analysis.py
+git status
+git commit -m "Initial commit - Temperature Analysis Assignment"
+git remote add origin https://github.com/nanthini-1990/python_loops_assignment.git
+git branch -m main
+git push -u origin main
+doskey/history1.txt
+doskey history1.txt
+doskey /history > history1.txt
