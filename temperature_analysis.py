@@ -1,5 +1,5 @@
-# Name: Your Name
-# Roll Number: Your Roll Number
+# Name: Nanthini M
+# Roll Number: IITP_AIMLTN_2602537
 # Assignment: Python Loops & Automation - Subjective Question
 
 print("===== Task 1: Find Maximum and Minimum =====")
